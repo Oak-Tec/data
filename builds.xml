@@ -1,10 +1,26 @@
 <builds>
 <build>
-<name>[COLOR purple]----FUNS Omega Builds----[/COLOR]</name>
-<version>[COLOR purple]Omega K21[/COLOR]</version>
-<url>http://funstersplace.net/Builds/xontrix21.zip</url>
+<name>[COLOR xShip-for-Mobil[/COLOR]</name>
+<version>[COLOR red]Omega K21[/COLOR]</version>
+<url>http:// /Builds/xship-for-mobil.zip</url>
 <icon>https://funstersplace.net/images/test.jpg</icon>
-<fanart>https://funstersplace.net/images/test.jpg</fanart>
-<description>Omega builds, please give feedback</description>
+<fanart>https:// /images/fanart-mobil.jpg</fanart>
+<description></description>
+</build>
+<build>
+<name>[COLOR red]xShip-for-PC[/COLOR]</name>
+<version>[COLOR purple]Omega K21[/COLOR]</version>
+<url>http:// /Builds/.zip</url>
+<icon>https:// /images/test.jpg</icon>
+<fanart>https:// /images/fanart-pc.jpg</fanart>
+<description></description>
+</build>
+<build>
+<name>[COLOR red]xShip-for-TV[/COLOR]</name>
+<version>[COLOR purple]Omega K21[/COLOR]</version>
+<url>http:// /Builds/xship-for-tv.zip</url>
+<icon>https:// /images/test.jpg</icon>
+<fanart>https:// /images/test.jpg</fanart>
+<description></description>
 </build>
 </builds>
