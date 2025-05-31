@@ -1,26 +1,34 @@
 <builds>
 <build>
-<name>[COLOR xShip-for-Mobil[/COLOR]</name>
-<version>[COLOR red]Omega K21[/COLOR]</version>
-<url>http:// /Builds/xship-for-mobil.zip</url>
+<name>[COLOR purple]----FUNS Omega Builds----[/COLOR]</name>
+<version>[COLOR purple]Omega K21[/COLOR]</version>
+<url>http://funstersplace.net/Builds/xontrix21.zip</url>
 <icon>https://funstersplace.net/images/test.jpg</icon>
-<fanart>https:// /images/fanart-mobil.jpg</fanart>
-<description></description>
+<fanart>https://funstersplace.net/images/test.jpg</fanart>
+<description>Omega builds, please give feedback</description>
 </build>
 <build>
-<name>[COLOR red]xShip-for-PC[/COLOR]</name>
-<version>[COLOR purple]Omega K21[/COLOR]</version>
-<url>http:// /Builds/.zip</url>
-<icon>https:// /images/test.jpg</icon>
-<fanart>https:// /images/fanart-pc.jpg</fanart>
-<description></description>
+<name>XontriX 21</name>
+<version>1.2</version>
+<url>http://funstersplace.net/Builds/xontrix21.zip</url>
+<icon>https://imgur.com/bo6RFo0.jpg</icon>
+<fanart>https://imgur.com/bo6RFo0.jpg</fanart>
+<description>Xonfluence Build feb 08</description>
 </build>
 <build>
-<name>[COLOR red]xShip-for-TV[/COLOR]</name>
-<version>[COLOR purple]Omega K21[/COLOR]</version>
-<url>http:// /Builds/xship-for-tv.zip</url>
-<icon>https:// /images/test.jpg</icon>
-<fanart>https:// /images/test.jpg</fanart>
-<description></description>
+<name>GutS</name>
+<version>1.1</version>
+<url>http://funstersplace.net/Builds/guts.zip</url>
+<icon>https://imgur.com/F2M31hU.jpg</icon>
+<fanart>https://imgur.com/F2M31hU.jpg</fanart>
+<description>Nimbus Berserk October 09</description>
+</build>
+<build>
+<name>FunTech</name>
+<version>1.0</version>
+<url>http://funstersplace.net/Builds/tech21.zip</url>
+<icon>https://imgur.com/nvsTivj.jpg</icon>
+<fanart>https://imgur.com/nvsTivj.jpg</fanart>
+<description>small fast and an EPG September 10</description>
 </build>
 </builds>
