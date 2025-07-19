@@ -1,18 +1,835 @@
 <builds>
 <build>
-<name></name>
-<version>xStream+</version>
+<name>[COLOR purple]----FUNS Omega Builds----[/COLOR]</name>
+<version>[COLOR purple]Omega K21[/COLOR]</version>
 <url>http://funstersplace.net/Builds/xontrix21.zip</url>
 <icon>https://funstersplace.net/images/test.jpg</icon>
 <fanart>https://funstersplace.net/images/test.jpg</fanart>
-<description>Für alle Geräte</description>
+<description>Omega builds, please give feedback</description>
 </build>
 <build>
-<name>xStream+ TV</name>
+<name>XontriX 21</name>
 <version>1.2</version>
 <url>http://funstersplace.net/Builds/xontrix21.zip</url>
 <icon>https://imgur.com/bo6RFo0.jpg</icon>
 <fanart>https://imgur.com/bo6RFo0.jpg</fanart>
-<description>Für SmartTV</description>
+<description>Xonfluence Build feb 08</description>
+</build>
+<build>
+<name>GutS</name>
+<version>1.1</version>
+<url>http://funstersplace.net/Builds/guts.zip</url>
+<icon>https://imgur.com/F2M31hU.jpg</icon>
+<fanart>https://imgur.com/F2M31hU.jpg</fanart>
+<description>Nimbus Berserk October 09</description>
+</build>
+<build>
+<name>FunTech</name>
+<version>1.0</version>
+<url>http://funstersplace.net/Builds/tech21.zip</url>
+<icon>https://imgur.com/nvsTivj.jpg</icon>
+<fanart>https://imgur.com/nvsTivj.jpg</fanart>
+<description>small fast and an EPG September 10</description>
+</build>
+<build>
+<name>Sports Plus 21</name>
+<version>1.1</version>
+<url>http://funstersplace.net/Builds/sport21.zip</url>
+<icon>https://imgur.com/MBo3cyo.jpg</icon>
+<fanart>https://imgur.com/MBo3cyo.jpg</fanart>
+<description>All the sport you'll ever need June 10</description>
+</build>
+<build>
+<name>Cosmic One 21</name>
+<version>1.1</version>
+<url>http://funstersplace.net/Builds/cosmic21.zip</url>
+<icon>https://imgur.com/9kuZkzi.jpg</icon>
+<fanart>https://imgur.com/9kuZkzi.jpg</fanart>
+<description>Cosmic build June 10</description>
+</build>
+<build>
+<name>HomeFlix 21</name>
+<version>1.1</version>
+<url>http://funstersplace.net/Builds/homelander21.zip</url>
+<icon>https://imgur.com/LvoMTEA.jpg</icon>
+<fanart>https://imgur.com/LvoMTEA.jpg</fanart>
+<description>Small Fast Netflix Build June 10</description>
+</build>
+<build>
+<name>COAtastic 21</name>
+<version>1.0</version>
+<url>http://funstersplace.net/Builds/coa21.zip</url>
+<icon>https://imgur.com/xqRbkFY.jpg</icon>
+<fanart>https://imgur.com/xqRbkFY.jpg</fanart>
+<description>small build on fentastic skin June 10</description>
+</build>
+<build>
+<name>ICONIC 21</name>
+<version>1.1</version>
+<url>http://funstersplace.net/Builds/iconic21.zip</url>
+<icon>https://imgur.com/EwyHKbC.jpg</icon>
+<fanart>https://imgur.com/EwyHKbC.jpg</fanart>
+<description>ICONIC 2024 June 10</description>
+</build>
+<build>
+<name>SteaM 21</name>
+<version>1.1</version>
+<url>http://funstersplace.net/Builds/steam21.zip</url>
+<icon>https://imgur.com/iaTw7Ky.jpg</icon>
+<fanart>https://imgur.com/iaTw7Ky.jpg</fanart>
+<description>Start of a new build era June 10</description>
+</build>
+<build>
+<name>[COLOR purple]----Funs Non Debrid Builds----[/COLOR]</name>
+<version>[COLOR purple]Omega K21[/COLOR]</version>
+<url>http://funstersplace.net/Builds/xontrixgratis21.zip</url>
+<icon>https://funstersplace.net/images/test.jpg</icon>
+<fanart>https://funstersplace.net/images/test.jpg</fanart>
+<description>Funstersplace Builds</description>
+</build>
+<build>
+<name>XontriX Gratis 21</name>
+<version>1.1</version>
+<url>http://funstersplace.net/Builds/xontrixgratis21.zip</url>
+<icon>https://imgur.com/oRaOzAP.jpg</icon>
+<fanart>https://imgur.com/oRaOzAP.jpg</fanart>
+<description>NON DEBRID BUILD</description>
+</build>
+<build>
+<name>[COLOR purple]----CHAINS BUILDS----[/COLOR]</name>
+<version>[COLOR purple]Omega K21[/COLOR]</version>
+<url>http://funstersplace.net/Builds/steam.zip</url>
+<icon>https://funstersplace.net/images/test.jpg</icon>
+<fanart>https://funstersplace.net/images/test.jpg</fanart>
+<description>Chains Builds</description>
+</build>
+<build>
+<name>Suicide Squad Build</name>
+<version>1.1</version>
+<url>https://thechains24.com/BUILDS/19%20builds/squad.zip</url>
+<icon>https://i.imgur.com/NWsnG4W.png</icon>
+<fanart>https://i.imgur.com/NWsnG4W.png</fanart>
+<description>Lightweight Build</description>
+</build>
+<build>
+<name>Absolution Build</name>
+<version>1.0</version>
+<url>https://thechains24.com/BUILDS/19%20builds/absolutionbuild.zip</url>
+<icon>https://i.imgur.com/zlIjkOu.png</icon>
+<fanart>https://i.imgur.com/zlIjkOu.png</fanart>
+<description>Lightweight Build</description>
+</build>
+<build>
+<name>Knuckles Build</name>
+<version>1.0</version>
+<url>https://thechains24.com/BUILDS/19%20builds/knuckles.zip</url>
+<icon>https://i.imgur.com/11ELLdr.png</icon>
+<fanart>https://i.imgur.com/11ELLdr.png</fanart>
+<description>Lightweight Build</description>
+</build>
+<build>
+<name>Resurrection Build</name>
+<version>1.0</version>
+<url>https://thechains24.com/BUILDS/19%20builds/ressi21.zip</url>
+<icon>https://i.imgur.com/VR1Jgbs.png</icon>
+<fanart>https://i.imgur.com/VR1Jgbs.png</fanart>
+<description>Horror Style</description>
+</build>
+<build>
+<name>The Nimbus Build</name>
+<version>1.1</version>
+<url>https://thechains24.com/BUILDS/19%20builds/nimbusomega.zip</url>
+<icon>https://i.imgur.com/o9RuUJ5.png</icon>
+<fanart>https://i.imgur.com/o9RuUJ5.png</fanart>
+<description>Widget Style</description>
+</build>
+<build>
+<name>The Fuse Build</name>
+<version>1.6</version>
+<url>https://thechains24.com/BUILDS/19%20builds/thefuse.zip</url>
+<icon>https://i.imgur.com/QeNVO3R.png</icon>
+<fanart>https://i.imgur.com/QeNVO3R.png</fanart>
+<description>Widget Style</description>
+</build>
+<build>
+<name>Titan Flix Build</name>
+<version>1.0</version>
+<url>https://thechains24.com/BUILDS/19%20builds/TITANBIGGIE.zip</url>
+<icon>https://i.imgur.com/TUSWzPV.png</icon>
+<fanart>https://i.imgur.com/TUSWzPV.png</fanart>
+<description>Netflix Style</description>
+</build>
+<build>
+<name>Midnight Horizon Build</name>
+<version>1.4</version>
+<url>https://thechains24.com/BUILDS/19%20builds/midnightbuild21.zip</url>
+<icon>https://i.imgur.com/0f2aezL.png</icon>
+<fanart>https://i.imgur.com/0f2aezL.png</fanart>
+<description>Midnight Horizon Build</description>
+</build>
+<build>
+<name>Panel Build</name>
+<version>1.0</version>
+<url>https://thechains24.com/BUILDS/panelbuild21.zip</url>
+<icon>https://i.imgur.com/mMgyWjd.png</icon>
+<fanart>https://i.imgur.com/mMgyWjd.png</fanart>
+<description>Widget Based Build</description>
+</build>
+<build>
+<name>ktv Build</name>
+<version>1.5</version>
+<url>https://thechains24.com/BUILDS/19%20builds/ktv.zip</url>
+<icon>https://i.imgur.com/v607pSr.png</icon>
+<fanart>https://i.imgur.com/v607pSr.png</fanart>
+<description>ktv Build</description>
+</build>
+<build>
+<name>Coalition Build</name>
+<version>1.6</version>
+<url>https://thechains24.com/BUILDS/19%20builds/coalitionbuild21.zip</url>
+<icon>https://i.imgur.com/vdHIznt.png</icon>
+<fanart>https://i.imgur.com/vdHIznt.png</fanart>
+<description>Coalition Build</description>
+</build>
+<build>
+<name>Super Solider Build</name>
+<version>1.1</version>
+<url>https://thechains24.com/BUILDS/19%20builds/capamerica21.zip</url>
+<icon>https://i.imgur.com/UwsUTfP.png</icon>
+<fanart>https://i.imgur.com/UwsUTfP.png</fanart>
+<description>Super Solider Build</description>
+</build>
+<build>
+<name>Freddys Nightmares Build</name>
+<version>1.1</version>
+<url>https://thechains24.com/BUILDS/19%20builds/freddys%20nightmares.zip</url>
+<icon>https://i.imgur.com/ThqJjPK.png</icon>
+<fanart>https://i.imgur.com/ThqJjPK.png</fanart>
+<description>Freddys Nightmares Build</description>
+</build>
+<build>
+<name>Killer Frequency Build</name>
+<version>1.0</version>
+<url>https://thechains24.com/BUILDS/19%20builds/freq21.zip</url>
+<icon>https://i.imgur.com/2R5biXM.png</icon>
+<fanart>https://i.imgur.com/2R5biXM.png</fanart>
+<description>Killer Frequency Build</description>
+</build>
+<build>
+<name>[COLOR purple]----FRANKS 21 BUILDS----[/COLOR]</name>
+<version>[COLOR purple]Omega K21[/COLOR]</version>
+<url>http://thechains24.com/Ghost-Addon/ghostxmls/builds/Franks21.zip</url>
+<icon>https://funstersplace.net/images/test.jpg</icon>
+<fanart>https://funstersplace.net/images/test.jpg</fanart>
+<description>Franks builds</description>
+</build>
+<build>
+<name>Franks 21 Build</name>
+<version>2.3</version>
+<url>https://thechains24.com/PornKing/Builds/Franks21.zip</url>
+<icon>https://thechains24.com/PornKing/Builds/fanart.png</icon>
+<fanart>https://thechains24.com/PornKing/Builds/fanart.png</fanart>
+<description>Franks Builds</description>
+</build>
+<build>
+<name>[COLOR purple]----Green Monster Omega----[/COLOR]</name>
+<version>[COLOR purple]Omega K21[/COLOR]</version>
+<url>http://funstersplace.net/Builds/GM21F.zip</url>
+<icon>https://funstersplace.net/images/test.jpg</icon>
+<fanart>https://funstersplace.net/images/test.jpg</fanart>
+<description>Green Monster Builds</description>
+</build>
+<build>
+<name>Green Monster 21</name>
+<version>1.2</version>
+<url>http://funstersplace.net/Builds/GM21F.zip</url>
+<icon>https://funstersplace.net/images/GM21.jpg</icon>
+<fanart>https://funstersplace.net/images/GM21.jpg</fanart>
+<description>Green Monster Builds</description>
+</build>
+<build>
+<name>[COLOR purple]----OLD CROW 21 BUILDS----[/COLOR]</name>
+<version>[COLOR purple]Omega K21[/COLOR]</version>
+<url>http://funstersplace.net/Builds/xontrix21.zip</url>
+<icon>https://funstersplace.net/images/test.jpg</icon>
+<fanart>https://funstersplace.net/images/test.jpg</fanart>
+<description>Community Builds</description>
+</build>
+<build>
+<name>Pirates</name>
+<version>1.6</version>
+<url>http://funstersplace.net/Builds/Pirates.zip</url>
+<icon>https://funstersplace.net/images/Pirates.jpg</icon>
+<fanart>https://funstersplace.net/images/Pirates.jpg</fanart>
+<description>Old Crow Builds</description>
+</build>
+<build>
+<name>MillWall FC</name>
+<version>2.0</version>
+<url>http://funstersplace.net/Builds/mill21.zip</url>
+<icon>https://funstersplace.net/images/mill.jpg</icon>
+<fanart>https://funstersplace.net/images/mill.jpg</fanart>
+<description>Old Crow Builds</description>
+</build>
+<build>
+<name>[COLOR purple]----COMMUNITY 21 BUILDS----[/COLOR]</name>
+<version>[COLOR purple]Omega K21[/COLOR]</version>
+<url>http://funstersplace.net/Builds/xontrix21.zip</url>
+<icon>https://funstersplace.net/images/test.jpg</icon>
+<fanart>https://funstersplace.net/images/test.jpg</fanart>
+<description>Community Builds</description>
+</build>
+<build>
+<name>Rabs Blue K21</name>
+<version>1.0</version>
+<url>http://funstersplace.net/Builds/rabs.zip</url>
+<icon>https://funstersplace.net/images/rabs.jpg</icon>
+<fanart>https://funstersplace.net/images/rabs.jpg</fanart>
+<description>Rabs Builds</description>
+</build>
+<build>
+<name>TWD ZOMBGIRL 21 tribute</name>
+<version>1.0</version>
+<url>http://funstersplace.net/Builds/ZOMBgirl.zip</url>
+<icon>https://imgur.com/WJnJ5St.jpg</icon>
+<fanart>https://imgur.com/WJnJ5St.jpg</fanart>
+<description>Dystopia BUILD</description>
+</build>
+<build>
+<name>CrewNique 21</name>
+<version>1.0</version>
+<url>http://funstersplace.net/Builds/CrewNique.zip</url>
+<icon>https://funstersplace.net/images/CrewNique.jpg</icon>
+<fanart>https://funstersplace.net/images/CrewNique.jpg</fanart>
+<description>You_Nique skin by sidekick Crew setup</description>
+</build>
+<build>
+<name>[COLOR purple]----TECH NICK 21 BUILDS----[/COLOR]</name>
+<version>[COLOR purple]Omega K21[/COLOR]</version>
+<url>http://funstersplace.net/Builds/NickFlix21.zip</url>
+<icon>https://funstersplace.net/images/test.jpg</icon>
+<fanart>https://funstersplace.net/images/test.jpg</fanart>
+<description>Tech Nick Builds</description>
+</build>
+<build>
+<name>Sith</name>
+<version>1.2</version>
+<url>http://funstersplace.net/Builds/Sith.zip</url>
+<icon>https://funstersplace.net/images/Sith.jpg</icon>
+<fanart>https://funstersplace.net/images/Sith.jpg</fanart>
+<description>Tech Nick Builds</description>
+</build>
+<build>
+<name>iDebrid</name>
+<version>1.2</version>
+<url>http://funstersplace.net/Builds/iDebrid.zip</url>
+<icon>https://funstersplace.net/images/iDebrid.jpg</icon>
+<fanart>https://funstersplace.net/images/iDebrid.jpg</fanart>
+<description>Tech Nick Builds</description>
+</build>
+<build>
+<name>Harry Potter</name>
+<version>1.3</version>
+<url>http://funstersplace.net/Builds/HarryPotter.zip</url>
+<icon>https://funstersplace.net/images/HarryPotter.jpg</icon>
+<fanart>https://funstersplace.net/images/HarryPotter.jpg</fanart>
+<description>Tech Nick Builds</description>
+</build>
+<build>
+<name>Cinema Debrid</name>
+<version>1.2</version>
+<url>http://funstersplace.net/Builds/CinemaDebrid.zip</url>
+<icon>https://funstersplace.net/images/CinemaDebrid.jpg</icon>
+<fanart>https://funstersplace.net/images/CinemaDebrid.jpg</fanart>
+<description>Tech Nick Builds</description>
+</build>
+<build>
+<name>Riddick</name>
+<version>1.1</version>
+<url>http://funstersplace.net/Builds/Riddick.zip</url>
+<icon>https://funstersplace.net/images/Riddick.jpg</icon>
+<fanart>https://funstersplace.net/images/Riddick.jpg</fanart>
+<description>Tech Nick Builds</description>
+</build>
+<build>
+<name>Checkmate</name>
+<version>1.1</version>
+<url>http://funstersplace.net/Builds/Checkmate.zip</url>
+<icon>https://funstersplace.net/images/Checkmate.jpg</icon>
+<fanart>https://funstersplace.net/images/Checkmate.jpg</fanart>
+<description>Tech Nick Builds</description>
+</build>
+<build>
+<name>GOT</name>
+<version>1.3</version>
+<url>http://funstersplace.net/Builds/GOT.zip</url>
+<icon>https://funstersplace.net/images/GOT.jpg</icon>
+<fanart>https://funstersplace.net/images/GOT.jpg</fanart>
+<description>Tech Nick Builds</description>
+</build>
+<build>
+<name>Penguin</name>
+<version>1.1</version>
+<url>http://funstersplace.net/Builds/Penguin.zip</url>
+<icon>https://funstersplace.net/images/Penguin.jpg</icon>
+<fanart>https://funstersplace.net/images/Penguin.jpg</fanart>
+<description>Tech Nick Builds</description>
+</build>
+<build>
+<name>Pure Horror Debrid</name>
+<version>1.6</version>
+<url>http://funstersplace.net/Builds/pure.zip</url>
+<icon>https://funstersplace.net/images/pure.jpg</icon>
+<fanart>https://funstersplace.net/images/pure.jpg</fanart>
+<description>Tech Nick Builds</description>
+</build>
+<build>
+<name>Invasion</name>
+<version>1.5</version>
+<url>http://funstersplace.net/Builds/Invasion.zip</url>
+<icon>https://funstersplace.net/images/Invasion.jpg</icon>
+<fanart>https://funstersplace.net/images/Invasion.jpg</fanart>
+<description>Tech Nick Builds</description>
+</build>
+<build>
+<name>Red hood</name>
+<version>1.2</version>
+<url>http://funstersplace.net/Builds/Redhood.zip</url>
+<icon>https://funstersplace.net/images/Redhood.jpg</icon>
+<fanart>https://funstersplace.net/images/Redhood.jpg</fanart>
+<description>Tech Nick Builds</description>
+</build>
+<build>
+<name>Only Sports</name>
+<version>1.3</version>
+<url>http://funstersplace.net/Builds/OnlySports.zip</url>
+<icon>https://funstersplace.net/images/OnlySports.jpg</icon>
+<fanart>https://funstersplace.net/images/OnlySports.jpg</fanart>
+<description>Tech Nick Builds</description>
+</build>
+<build>
+<name>Silk Spectre Touch</name>
+<version>1.4</version>
+<url>http://funstersplace.net/Builds/Silk.zip</url>
+<icon>https://funstersplace.net/images/Silk.jpg</icon>
+<fanart>https://funstersplace.net/images/Silk.jpg</fanart>
+<description>Tech Nick Builds</description>
+</build>
+<build>
+<name>The Comedian</name>
+<version>1.6</version>
+<url>http://funstersplace.net/Builds/Comedian.zip</url>
+<icon>https://funstersplace.net/images/Comedian.jpg</icon>
+<fanart>https://funstersplace.net/images/Comedian.jpg</fanart>
+<description>Tech Nick Builds</description>
+</build>
+<build>
+<name>NickFlix 21</name>
+<version>1.4</version>
+<url>http://funstersplace.net/Builds/NickFlix21.zip</url>
+<icon>https://funstersplace.net/images/NickFlix.jpg</icon>
+<fanart>https://funstersplace.net/images/NickFlix.jpg</fanart>
+<description>Tech Nick Builds</description>
+</build>
+<build>
+<name>Dr Manhattan K21</name>
+<version>2.5</version>
+<url>http://funstersplace.net/Builds/DrManhattanK21.zip</url>
+<icon>https://funstersplace.net/images/drm.jpg</icon>
+<fanart>https://funstersplace.net/images/drm.jpg</fanart>
+<description>Tech Nick Builds</description>
+</build>
+<build>
+<name>Trinity</name>
+<version>1.6</version>
+<url>http://funstersplace.net/Builds/Trinity.zip</url>
+<icon>https://funstersplace.net/images/Trinity.jpg</icon>
+<fanart>https://funstersplace.net/images/Trinity.jpg</fanart>
+<description>Tech Nick Builds</description>
+</build>
+<build>
+<name>Darksied 21</name>
+<version>1.4</version>
+<url>http://funstersplace.net/Builds/Darksied21.zip</url>
+<icon>https://funstersplace.net/images/Darkseid.jpg</icon>
+<fanart>https://funstersplace.net/images/Darkseid.jpg</fanart>
+<description>Tech Nick Builds</description>
+</build>
+<build>
+<name>Daywalker</name>
+<version>1.7</version>
+<url>http://funstersplace.net/Builds/Daywalker.zip</url>
+<icon>https://funstersplace.net/images/Daywalker.jpg</icon>
+<fanart>https://funstersplace.net/images/Daywalker.jpg</fanart>
+<description>Tech Nick Builds</description>
+</build>
+<build>
+<name>[COLOR purple]----Tech Nicks Non Debrid Builds----[/COLOR]</name>
+<version>[COLOR purple]Omega K21[/COLOR]</version>
+<url>http://funstersplace.net/Builds/xontrixgratis21.zip</url>
+<icon>https://funstersplace.net/images/test.jpg</icon>
+<fanart>https://funstersplace.net/images/test.jpg</fanart>
+<description>Tech Nicks Non Debrid Builds</description>
+</build>
+<build>
+<name>iNonDebrid</name>
+<version>1.2</version>
+<url>http://funstersplace.net/Builds/iNonDebrid.zip</url>
+<icon>https://funstersplace.net/images/iNonDebrid.jpg</icon>
+<fanart>https://funstersplace.net/images/iNonDebrid.jpg</fanart>
+<description>NON DEBRID Tech Nick Builds</description>
+</build>
+<build>
+<name>Just Scrubs</name>
+<version>1.1</version>
+<url>http://funstersplace.net/Builds/Just.zip</url>
+<icon>https://funstersplace.net/images/Just.jpg</icon>
+<fanart>https://funstersplace.net/images/Just.jpg</fanart>
+<description>NON DEBRID Tech Nick Builds</description>
+</build>
+<build>
+<name>Firestick That</name>
+<version>1.1</version>
+<url>http://funstersplace.net/Builds/Firestick.zip</url>
+<icon>https://funstersplace.net/images/Firestick.jpg</icon>
+<fanart>https://funstersplace.net/images/Firestick.jpg</fanart>
+<description>NON DEBRID Tech Nick Builds</description>
+</build>
+<build>
+<name>Martin</name>
+<version>1.2</version>
+<url>http://funstersplace.net/Builds/Martin.zip</url>
+<icon>https://funstersplace.net/images/Martin.jpg</icon>
+<fanart>https://funstersplace.net/images/Martin.jpg</fanart>
+<description>NON DEBRID Tech Nick Builds</description>
+</build>
+<build>
+<name>Cinema</name>
+<version>1.6</version>
+<url>http://funstersplace.net/Builds/Cinema.zip</url>
+<icon>https://funstersplace.net/images/Cinema.jpg</icon>
+<fanart>https://funstersplace.net/images/Cinema.jpg</fanart>
+<description>NON DEBRID Tech Nick Builds</description>
+</build>
+<build>
+<name>Traitors 21</name>
+<version>1.7</version>
+<url>http://funstersplace.net/Builds/Traitors.zip</url>
+<icon>https://funstersplace.net/images/Traitors.jpg</icon>
+<fanart>https://funstersplace.net/images/Traitors.jpg</fanart>
+<description>NON DEBRID Tech Nick Builds</description>
+</build>
+<build>
+<name>Nite Owl Free</name>
+<version>1.2</version>
+<url>http://funstersplace.net/Builds/NiteOwlFree.zip</url>
+<icon>https://funstersplace.net/images/NiteOwlDebrid.jpg</icon>
+<fanart>https://funstersplace.net/images/NiteOwlDebrid.jpg</fanart>
+<description>NON DEBRID Tech Nick Builds</description>
+</build>
+<build>
+<name>Power</name>
+<version>1.8</version>
+<url>http://funstersplace.net/Builds/Power.zip</url>
+<icon>https://funstersplace.net/images/power.jpg</icon>
+<fanart>https://funstersplace.net/images/power.jpg</fanart>
+<description>Tech Nick Builds</description>
+</build>
+<build>
+<name>FreedomK21</name>
+<version>2.6</version>
+<url>http://funstersplace.net/Builds/FreedomK21.zip</url>
+<icon>https://funstersplace.net/images/Freedom.jpg</icon>
+<fanart>https://funstersplace.net/images/Freedom.jpg</fanart>
+<description>NON DEBRID Tech Nick Builds</description>
+</build>
+<build>
+<name>[COLOR purple]----BRADLEY'S BUILDS----[/COLOR]</name>
+<version>[COLOR purple]Omega K21[/COLOR]</version>
+<url>http://funstersplace.net/Builds/xontrix21.zip</url>
+<icon>https://funstersplace.net/images/test.jpg</icon>
+<fanart>https://funstersplace.net/images/test.jpg</fanart>
+<description>Bradley's Builds</description>
+</build>
+<build>
+<name>BRADS 2 in 1 WRESTLING NFL</name>
+<version>1.0</version>
+<url>http://funstersplace.net/Builds/brads.zip</url>
+<icon>https://funstersplace.net/images/brads.jpg</icon>
+<fanart>https://funstersplace.net/images/brads.jpg</fanart>
+<description>Bradley's Builds</description>
+</build>
+<build>
+<name>[COLOR purple]----7o9 Omega Builds----[/COLOR]</name>
+<version>[COLOR purple]K21 Only[/COLOR]</version>
+<url>http://funstersplace.net/Builds/OneFlix.zip</url>
+<icon>https://funstersplace.net/images/test.jpg</icon>
+<fanart>https://funstersplace.net/images/test.jpg</fanart>
+<description>7o9 Builds</description>
+</build>
+<build>
+<name>OneFlix</name>
+<version>2.6</version>
+<kodi>K21</kodi>
+<size>138MB</size>
+<url>https://dr-venture.com/709/TheBuilds/OneFlix.zip</url>
+<icon>https://dr-venture.com/709/Artwork/709OneFlix_Icon.jpg</icon>
+<fanart>https://dr-venture.com/709/Artwork/709Wizard-Fanart.jpg</fanart>
+<description>A widget packed Netflix style streaming service build - Debrid Only - Updated Feb-1-2025</description>
+</build>
+<build>
+<name>Nimble</name>
+<version>1.2</version>
+<kodi>K21</kodi>
+<size>50MB</size>
+<url>https://dr-venture.com/709/TheBuilds/Nimble.zip</url>
+<icon>https://dr-venture.com/709/Artwork/709Nimble_Icon.jpg</icon>
+<fanart>https://dr-venture.com/709/Artwork/709Wizard-Fanart.jpg</fanart>
+<description>A light and quick Movie/TV build designed around the Nimbus skin. Includes a handful of top debrid add-ons. You choose your add-ons at first run. - Debrid Only - Updated Feb-1-2025</description>
+</build>
+<build>
+<name>Retro</name>
+<version>1.3</version>
+<kodi>K21</kodi>
+<size>109MB</size>
+<url>https://dr-venture.com/709/TheBuilds/Retro.zip</url>
+<icon>https://dr-venture.com/709/Artwork/709Retro_Icon.jpg</icon>
+<fanart>https://dr-venture.com/709/Artwork/709Wizard-Fanart.jpg</fanart>
+<description>A light Movie/TV build with an old school look. Includes a handful of top add-ons - Debrid Only - Updated Sept-20-2024</description>
+</build>
+<build>
+<name>Klix</name>
+<version>3.8</version>
+<kodi>K21</kodi>
+<url>https://dr-venture.com/709/TheBuilds/Klix.zip</url>
+<icon>https://dr-venture.com/709/Artwork/709Klix_Icon.jpg</icon>
+<fanart>https://dr-venture.com/709/Artwork/709Wizard-Fanart.jpg</fanart>
+<description>A fully loaded build focusing on streaming services and LiveTV - Debrid Only - Updated Sept-26-2024</description>
+</build>
+<build>
+<name>Game On</name>
+<version>2.4</version>
+<kodi>K21</kodi>
+<size>197MB</size>
+<url>https://dr-venture.com/709/TheBuilds/Game_On.zip</url>
+<icon>https://dr-venture.com/709/Artwork/709Game_On_Icon.jpg</icon>
+<fanart>https://dr-venture.com/709/Artwork/709Wizard-Fanart.jpg</fanart>
+<description>A sports only build. Nothing more! - Debrid Only - Updated Jan-24-2025</description>
+</build>
+<build>
+<name>Xlite</name>
+<version>7.1</version>
+<kodi>K21</kodi>
+<size>136MB</size>
+<url>https://dr-venture.com/709/TheBuilds/Xlite.zip</url>
+<icon>https://dr-venture.com/709/Artwork/709Xlite_Lite_Icon.jpg</icon>
+<fanart>https://dr-venture.com/709/Artwork/709Wizard-Fanart.jpg</fanart>
+<description>A light build with an easy-to-navigate interface - Debrid Only - Updated Feb-1-2025</description>
+</build>
+<build>
+<name>Xlite Plus</name>
+<version>8.8</version>
+<kodi>K21</kodi>
+<size>153MB</size>
+<url>https://dr-venture.com/709/TheBuilds/Xlite_Plus.zip</url>
+<icon>https://dr-venture.com/709/Artwork/709Xlite_Plus_Icon.jpg</icon>
+<fanart>https://dr-venture.com/709/Artwork/709Wizard-Fanart.jpg</fanart>
+<description>A fully loaded build with an easy-to-navigate interface - Debrid Only - Updated Feb-1-2025</description>
+</build>
+<build>
+<name>NetKlix Lite</name>
+<version>1.0</version>
+<kodi>K21</kodi>
+<size>61MB</size>
+<url>https://dr-venture.com/709/TheBuilds/NetKlix_Lite.zip</url>
+<icon>https://dr-venture.com/709/Artwork/709NetKlix_Icon.jpg</icon>
+<fanart>https://dr-venture.com/709/Artwork/709Wizard-Fanart.jpg</fanart>
+<description>This is a stripped down version of NetKlix - Low-end devices - Debrid Only - Updated Mar-24-2025</description>
+</build>
+<build>
+<name>NetKlix</name>
+<version>1.0</version>
+<kodi>K21</kodi>
+<size>171MB</size>
+<url>https://dr-venture.com/709/TheBuilds/NetKlix.zip</url>
+<icon>https://dr-venture.com/709/Artwork/709NetKlix_Icon.jpg</icon>
+<fanart>https://dr-venture.com/709/Artwork/709Wizard-Fanart.jpg</fanart>
+<description>A Netflix clone. This is a complete streaming service replacement build - Requires at minimum, 1.2GB of available HDD space - For high-end devices. You've been warned! - Debrid Only - Updated Mar-24-2025</description>
+</build>
+<build>
+<name>Estuary Light</name>
+<version>1.2</version>
+<kodi>K21</kodi>
+<size>27MB</size>
+<url>https://dr-venture.com/709/TheBuilds/Estuary_Light.zip</url>
+<icon>https://dr-venture.com/709/Artwork/709Estuary_Light_Icon.jpg</icon>
+<fanart>https://dr-venture.com/709/Artwork/709Wizard-Fanart.jpg</fanart>
+<description>A minimal build designed around the Fen Light add-on with a Live TV section included- Debrid Only - Updated Dec-3-2024</description>
+</build>
+<build>
+<name>Estuary Plus</name>
+<version>1.1</version>
+<kodi>K21</kodi>
+<size>50MB</size>
+<url>https://dr-venture.com/709/TheBuilds/Estuary_Plus.zip</url>
+<icon>https://dr-venture.com/709/Artwork/709Estuary_Plus_Icon.jpg</icon>
+<fanart>https://dr-venture.com/709/Artwork/709Wizard-Fanart.jpg</fanart>
+<description>A light build designed around TMDb Helper using a modded version of Kodi's stock Estuary skin. Includes a handful of top debrid add-ons. You choose your add-ons at first run. - Debrid Only - Trakt Required - Updated Feb-1-2025</description>
+</build>
+<build>
+<name>Estuary Switch</name>
+<version>2.2</version>
+<kodi>K21</kodi>
+<size>76MB</size>
+<url>https://dr-venture.com/709/TheBuilds/Estuary_Switch.zip</url>
+<icon>https://dr-venture.com/709/Artwork/709Estuary_Switch_Icon.jpg</icon>
+<fanart>https://dr-venture.com/709/Artwork/709Wizard-Fanart.jpg</fanart>
+<description>Kodi's Estuary skin with a twist! Includes a handful of top debrid add-ons. - Debrid Only - Updated Feb-1-2025</description>
+</build>
+<build>
+<name>EstuaryFlix</name>
+<version>1.8</version>
+<kodi>K21</kodi>
+<size>91MB</size>
+<url>https://dr-venture.com/709/TheBuilds/Estuary_Flix.zip</url>
+<icon>https://dr-venture.com/709/Artwork/709Estuary_Flix_Icon.jpg</icon>
+<fanart>https://dr-venture.com/709/Artwork/709Wizard-Fanart.jpg</fanart>
+<description>A simple Movie-TV build that is built for speed. No Bloat and a clean interface! Includes a handful of top debrid add-ons. - Debrid Only - Updated Feb-1-2025</description>
+</build>
+<build>
+<name>inFENity</name>
+<version>1.0</version>
+<kodi>K21</kodi>
+<size>26MB</size>
+<url>https://dr-venture.com/709/TheBuilds/inFENity.zip</url>
+<icon>https://dr-venture.com/709/Artwork/709InFENity_Plus_Icon.jpg</icon>
+<fanart>https://dr-venture.com/709/Artwork/709Wizard-Fanart.jpg</fanart>
+<description>A widget packed minimal build that is designed around the Fen Light addon - Debrid Only - Updated Feb-6-2024</description>
+</build>
+<build>
+<name>FENura</name>
+<version>1.1</version>
+<kodi>K21</kodi>
+<size>73MB</size>
+<url>https://dr-venture.com/709/TheBuilds/FENura.zip</url>
+<icon>https://dr-venture.com/709/Artwork/709FENura_Icon.jpg</icon>
+<fanart>https://dr-venture.com/709/Artwork/709Wizard-Fanart.jpg</fanart>
+<description>A widget packed Netflix style minimal build designed around the Fen Light addon. - Debrid Only - Updated Mar-23-2025</description>
+</build>
+<build>
+<name>Arctic Rain</name>
+<version>2.0</version>
+<kodi>K21</kodi>
+<size>79MB</size>
+<url>https://dr-venture.com/709/TheBuilds/Arctic_Rain.zip</url>
+<icon>https://dr-venture.com/709/Artwork/709Arctic_Rain_Icon.jpg</icon>
+<fanart>https://dr-venture.com/709/Artwork/709Wizard-Fanart.jpg</fanart>
+<description>Minimal build designed around the Umbrella addon - Debrid Only - Updated Mar-23-2025</description>
+</build>
+<build>
+<name>FENello</name>
+<version>1.0</version>
+<kodi>K21</kodi>
+<size>36MB</size>
+<url>https://dr-venture.com/709/TheBuilds/FENello.zip</url>
+<icon>https://dr-venture.com/709/Artwork/709FENello_Icon.jpg</icon>
+<fanart>https://dr-venture.com/709/Artwork/709Wizard-Fanart.jpg</fanart>
+<description>Minimal build designed around the Fen Light addon. Fast and Light-weight - Debrid Only - Updated Mar-15-2025</description>
+</build>
+<build>
+<name>UMBrello</name>
+<version>1.0</version>
+<kodi>K21</kodi>
+<size>50MB</size>
+<url>https://dr-venture.com/709/TheBuilds/UMBrello.zip</url>
+<icon>https://dr-venture.com/709/Artwork/709UMBrello_Icon.jpg</icon>
+<fanart>https://dr-venture.com/709/Artwork/709Wizard-Fanart.jpg</fanart>
+<description>Minimal build designed around the Umbrella addon. Fast and Light-weight - Debrid Only - Updated Mar-15-2025</description>
+</build>
+<build>
+<name>UMBrello Live</name>
+<version>1.0</version>
+<kodi>K21</kodi>
+<size>80MB</size>
+<url>https://dr-venture.com/709/TheBuilds/UMBrello_Live.zip</url>
+<icon>https://dr-venture.com/709/Artwork/709UMBrello_Live_Icon.jpg</icon>
+<fanart>https://dr-venture.com/709/Artwork/709Wizard-Fanart.jpg</fanart>
+<description>Minimal build designed around the Umbrella addon. Includes a Sports and LiveTV section - Debrid Only - Updated Mar-25-2025</description>
+</build>
+<build>
+<name>POVico</name>
+<version>1.6</version>
+<kodi>K21</kodi>
+<size>5MB</size>
+<url>https://dr-venture.com/709/TheBuilds/POVico.zip</url>
+<icon>https://dr-venture.com/709/Artwork/709POVico_Icon.jpg</icon>
+<fanart>https://dr-venture.com/709/Artwork/709Wizard-Fanart.jpg</fanart>
+<description>Minimal build designed around the POV (Fen Fork) addon. This is as fast and light-weight as it gets!- Debrid Only - Updated Oct-4-2024</description>
+</build>
+<build>
+<name>FENico</name>
+<version>1.1</version>
+<kodi>K21</kodi>
+<size>6MB</size>
+<url>https://dr-venture.com/709/TheBuilds/FENico.zip</url>
+<icon>https://dr-venture.com/709/Artwork/709FENico_Icon.jpg</icon>
+<fanart>https://dr-venture.com/709/Artwork/709Wizard-Fanart.jpg</fanart>
+<description>Minimal build designed around the Fen Light addon. Fast and Super Light-weight - Debrid Only - Updated Oct-4-2024</description>
+</build>
+<build>
+<name>[COLOR purple]----ADULT 21 BUILDS----[/COLOR]</name>
+<version>[COLOR purple]Omega K21[/COLOR]</version>
+<url>http://funstersplace.net/Builds/AfterDark21.zip</url>
+<icon>https://funstersplace.net/images/test.jpg</icon>
+<fanart>https://funstersplace.net/images/test.jpg</fanart>
+<description>Community Builds</description>
+</build>
+<build>
+<name>Marv's 1-Clicks Adult</name>
+<version>1.3</version>
+<url>http://funstersplace.net/Builds/MarvAdult.zip</url>
+<icon>https://funstersplace.net/images/Marv.jpg</icon>
+<fanart>https://funstersplace.net/images/Marv.jpg</fanart>
+<description>Tech Nick Builds</description>
+</build>
+<build>
+<name>After Dark</name>
+<version>2.0</version>
+<url>http://funstersplace.net/Builds/AfterDark21.zip</url>
+<icon>https://funstersplace.net/images/after.jpg</icon>
+<fanart>https://funstersplace.net/images/after.jpg</fanart>
+<description>Tech Nicks Builds</description>
+</build>
+<build>
+<name>----Holiday Builds----</name>
+<version>Omega K21</version>
+<url>http://funstersplace.net/Builds/iconichal.zip</url>
+<icon>https://funstersplace.net/images/test.jpg</icon>
+<fanart>https://funstersplace.net/images/test.jpg</fanart>
+<description>Omega builds, please give feedback</description>
+</build>
+<build>
+<name>[COLOR orange]Iconic Halloween[/COLOR]</name>
+<version>1.1</version>
+<url>http://funstersplace.net/Builds/iconichal.zip</url>
+<icon>https://imgur.com/HBSCsXP.jpg</icon>
+<fanart>https://imgur.com/HBSCsXP.jpg</fanart>
+<description>Funs 2024 halloween build</description>
+</build>
+<build>
+<name>[COLOR red]Funs Xmas[/COLOR]</name>
+<version>1.3</version>
+<url>http://funstersplace.net/Builds/xmas19.zip</url>
+<icon>https://funstersplace.net/images/xmas1.jpg</icon>
+<fanart>https://funstersplace.net/images/xmas1.jpg</fanart>
+<description>Funs Xmas Experience</description>
+</build>
+<build>
+<name>TEST dont install</name>
+<version>1.4</version>
+<url>http://funstersplace.net/Builds/test.zip</url>
+<icon>https://funstersplace.net/images/test.jpg</icon>
+<fanart>https://funstersplace.net/images/test.jpg</fanart>
+<description>This can hurt your device</description>
 </build>
 </builds>
