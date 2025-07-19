@@ -1,34 +1,18 @@
 <builds>
 <build>
-<name>[COLOR purple]----FUNS Omega Builds----[/COLOR]</name>
-<version>[COLOR purple]Omega K21[/COLOR]</version>
+<name></name>
+<version>xStream+</version>
 <url>http://funstersplace.net/Builds/xontrix21.zip</url>
 <icon>https://funstersplace.net/images/test.jpg</icon>
 <fanart>https://funstersplace.net/images/test.jpg</fanart>
-<description>Omega builds, please give feedback</description>
+<description>Für alle Geräte</description>
 </build>
 <build>
-<name>XontriX 21</name>
+<name>xStream+ TV</name>
 <version>1.2</version>
 <url>http://funstersplace.net/Builds/xontrix21.zip</url>
 <icon>https://imgur.com/bo6RFo0.jpg</icon>
 <fanart>https://imgur.com/bo6RFo0.jpg</fanart>
-<description>Xonfluence Build feb 08</description>
-</build>
-<build>
-<name>GutS</name>
-<version>1.1</version>
-<url>http://funstersplace.net/Builds/guts.zip</url>
-<icon>https://imgur.com/F2M31hU.jpg</icon>
-<fanart>https://imgur.com/F2M31hU.jpg</fanart>
-<description>Nimbus Berserk October 09</description>
-</build>
-<build>
-<name>FunTech</name>
-<version>1.0</version>
-<url>http://funstersplace.net/Builds/tech21.zip</url>
-<icon>https://imgur.com/nvsTivj.jpg</icon>
-<fanart>https://imgur.com/nvsTivj.jpg</fanart>
-<description>small fast and an EPG September 10</description>
+<description>Für SmartTV</description>
 </build>
 </builds>
